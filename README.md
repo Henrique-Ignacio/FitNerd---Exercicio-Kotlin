@@ -1,4 +1,5 @@
-<h1 align="center">FitNerd  Exercicio Kotlin</h1>
+<h1 align="center">FitNerd  Exercicio-Kotlin
+</h1>
 <p align="center">
     <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/840cee8b164c10b.png" width="150">
 </p>
@@ -23,12 +24,12 @@ Aprender a usar novas ferramentas tools.
 <h2 id=installation>:clipboard: Instalação</h2>
 
 1. Copie o repositorio.
-2. Instale no seu Visual Studio code.
+2. Instale no seu Android Studio.
 
 <h2 id=technology>:toolbox: Tecnologia</h2>
 
 A seguir as ferramentas que usei para o projeto
-- IDE: <a href="https://code.visualstudio.com/download">Visual Studio code</a>
+- IDE: <a href="https://developer.android.com/studio/install?hl=pt-br">Android Studio</a>
 
 <h2 id=author>:grin: Autor </h2>
 
